@@ -12,8 +12,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone <your-repo-url>
-cd FastAPI
+git clone https://github.com/DaurenZh/ReportTest.git
 ```
 
 2. Создайте виртуальное окружение:
