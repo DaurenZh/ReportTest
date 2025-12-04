@@ -119,6 +119,8 @@ else:
 ![alt text](/images/admin_reg.png)
 
 Ответ:
+
+
 ![alt text](/images/admin_reg_res.png)
 
 #### Вариант 2: Вручную через скрипт (для продакшена)
@@ -196,8 +198,6 @@ print("Admin created successfully!")
 ![alt text](/images/staff_reg.png)
 
 Ответ:
-
-
 ![alt text](/images/staff_reg_res.png)
 
 ### 2. Вход в систему
