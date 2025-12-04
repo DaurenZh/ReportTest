@@ -119,7 +119,7 @@ else:
 ![alt text](/images/admin_reg.png)
 
 Ответ:
-![alt text](/images/admin_reg_result.png)
+![alt text](/images/admin_reg_res.png)
 
 #### Вариант 2: Вручную через скрипт (для продакшена)
 
